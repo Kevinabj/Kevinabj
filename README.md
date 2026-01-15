@@ -79,7 +79,7 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 
 ## Web Projects (Selected)
 
-droubi.com · nabbouttrading.com · autohaus-group.com · lebanon-rental.com · cyberc-tech.com · atlashotelbasra.com · emaaraldelta.com · driveterra.com · brightmindsagency.com · glodigitalagency.com · tools-solutions.com · limousinequebec.ca · ventflow.ch · greenpea.ch · circuitsprestige.ca · otlsale.com · sydneyhuntingaccessories.com.au · tmb-me.com
+droubi.com · [nabbouttrading.com](https://nabbouttrading.com) · [autohaus-group.com](https://autohaus-group.com) · [lebanon-rental.com](https://lebanon-rental.com) · [cyberc-tech.com](https://cyberc-tech.com) · [atlashotelbasra.com](https://atlashotelbasra.com) · [emaaraldelta.com](https://emaaraldelta.com) · [driveterra.com](https://driveterra.com) · [brightmindsagency.com](https://brightmindsagency.com) · [glodigitalagency.com](https://glodigitalagency.com) · [tools-solutions.com](https://tools-solutions.com) · [limousinequebec.ca](https://limousinequebec.ca) · [ventflow.ch](https://ventflow.ch) · [greenpea.ch](https://greenpea.ch) · [circuitsprestige.ca](https://circuitsprestige.ca) · [otlsale.com](https://otlsale.com) · [sydneyhuntingaccessories.com.au](https://sydneyhuntingaccessories.com.au) · [tmb-me.com](https://tmb-me.com)
 
 ---
 
