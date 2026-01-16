@@ -74,7 +74,7 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 - **[Robot Simulation (C++)](https://github.com/Kevinabj/robot-simulation-cpp)** — Robotics simulation with motion and control logic  
 - **[Innovation Footprints in Tech Stock Markets](https://github.com/Kevinabj/Innovation-Footprints-in-Tech-Stock-Markets)** — Event-based financial market analysis using Python  
 - **[Basket Frenzy – Nintendo DS Game](https://github.com/Kevinabj/Basket-Frenzy---Nintendo-Game)** — Embedded game development in C for Nintendo DS
-- 
+
 ---
 
 ## Web Projects
