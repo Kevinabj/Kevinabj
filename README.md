@@ -86,9 +86,5 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 ## Contact
 
 - 🌐 Website: https://www.kevinaboujaoude.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/kevin-aboujaoude/  
-- 📧 Email: aboujaoudekevin@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/kevin-aboujaoude/ 
 
----
-
-⭐ Some projects are presented as **case studies** when source code cannot be made public.
