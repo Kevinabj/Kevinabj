@@ -71,10 +71,10 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 
 ## Selected Projects
 
-- **Applied Data Analysis (ADA – EPFL)**: Event-based financial market analysis using Python, statistics, and visualization  
-- **Lightning Data Analysis**: Signal processing and interactive dashboards for real-world sensor data  
-- **Embedded Game Development**: Nintendo DS game developed in C under hardware constraints  
-
+- **[Robot Simulation (C++)](https://github.com/Kevinabj/robot-simulation-cpp)** — Robotics simulation with motion and control logic  
+- **[Innovation Footprints in Tech Stock Markets](https://github.com/Kevinabj/Innovation-Footprints-in-Tech-Stock-Markets)** — Event-based financial market analysis using Python  
+- **[Basket Frenzy – Nintendo DS Game](https://github.com/Kevinabj/Basket-Frenzy---Nintendo-Game)** — Embedded game development in C for Nintendo DS
+- 
 ---
 
 ## Web Projects
