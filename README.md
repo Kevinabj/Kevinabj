@@ -1,7 +1,7 @@
 # Kevin Aboujaoude
 
-Electrical & Electronic Engineering student @ EPFL, **specialized in Artificial Intelligence & Machine Learning**.  
-Focused on **data analytics, applied ML, and software engineering**, with strong experience building real-world systems and products.
+Electrical & Electronics Engineering student @ EPFL, **specialized in Artificial Intelligence & Machine Learning**.  
+Focused on **data analytics, applied ML, and software engineering**, with strong experience in ecommerce and web development.
 
 📍 Lausanne, Switzerland
 
