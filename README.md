@@ -98,7 +98,6 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 [![sydneyhuntingaccessories.com.au](https://img.shields.io/badge/sydneyhuntingaccessories.com.au-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sydneyhuntingaccessories.com.au)
 [![tmb-me.com](https://img.shields.io/badge/tmb--me.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tmb-me.com)
 
-[![droubi.com](https://img.shields.io/badge/droubi.com-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://droubi.com "Corporate website – UI/UX, WordPress, SEO")
 
 ---
 
