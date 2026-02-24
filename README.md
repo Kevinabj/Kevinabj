@@ -68,7 +68,6 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B7285,100:111827&height=120&section=header&animation=fadeIn" />
 
 ## Featured Projects
 
