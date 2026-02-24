@@ -66,9 +66,6 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kevinabj&show_icons=true&theme=github_dark" />
-</p>
 ---
 
 ## Featured Projects
