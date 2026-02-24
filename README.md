@@ -124,21 +124,21 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://droubi.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://droubi.com" width="100%" alt="droubi.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://droubi.com" width="280" alt="droubi.com"/>
         <br/><b>droubi.com</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://nabbouttrading.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://nabbouttrading.com" width="100%" alt="nabbouttrading.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://nabbouttrading.com" width="280" alt="nabbouttrading.com"/>
         <br/><b>nabbouttrading.com</b>
       </a>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <a href="https://autohaus-group.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://autohaus-group.com" width="100%" alt="autohaus-group.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://autohaus-group.com" width="280" alt="autohaus-group.com"/>
         <br/><b>autohaus-group.com</b>
       </a>
     </td>
@@ -146,19 +146,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://lebanon-rental.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://lebanon-rental.com" width="100%" alt="lebanon-rental.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://lebanon-rental.com" width="280" alt="lebanon-rental.com"/>
         <br/><b>lebanon-rental.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://cyberc-tech.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://cyberc-tech.com" width="100%" alt="cyberc-tech.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://cyberc-tech.com" width="280" alt="cyberc-tech.com"/>
         <br/><b>cyberc-tech.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://atlashotelbasra.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://atlashotelbasra.com" width="100%" alt="atlashotelbasra.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://atlashotelbasra.com" width="280" alt="atlashotelbasra.com"/>
         <br/><b>atlashotelbasra.com</b>
       </a>
     </td>
@@ -166,19 +166,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://emaaraldelta.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://emaaraldelta.com" width="100%" alt="emaaraldelta.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://emaaraldelta.com" width="280" alt="emaaraldelta.com"/>
         <br/><b>emaaraldelta.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://driveterra.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://driveterra.com" width="100%" alt="driveterra.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://driveterra.com" width="280" alt="driveterra.com"/>
         <br/><b>driveterra.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://brightmindsagency.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://brightmindsagency.com" width="100%" alt="brightmindsagency.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://brightmindsagency.com" width="280" alt="brightmindsagency.com"/>
         <br/><b>brightmindsagency.com</b>
       </a>
     </td>
@@ -186,19 +186,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://glodigitalagency.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://glodigitalagency.com" width="100%" alt="glodigitalagency.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://glodigitalagency.com" width="280" alt="glodigitalagency.com"/>
         <br/><b>glodigitalagency.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://tools-solutions.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://tools-solutions.com" width="100%" alt="tools-solutions.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://tools-solutions.com" width="280" alt="tools-solutions.com"/>
         <br/><b>tools-solutions.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://limousinequebec.ca">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://limousinequebec.ca" width="100%" alt="limousinequebec.ca"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://limousinequebec.ca" width="280" alt="limousinequebec.ca"/>
         <br/><b>limousinequebec.ca</b>
       </a>
     </td>
@@ -206,19 +206,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://ventflow.ch">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://ventflow.ch" width="100%" alt="ventflow.ch"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://ventflow.ch" width="280" alt="ventflow.ch"/>
         <br/><b>ventflow.ch</b>
       </a>
     </td>
     <td align="center">
       <a href="https://greenpea.ch">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://greenpea.ch" width="100%" alt="greenpea.ch"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://greenpea.ch" width="280" alt="greenpea.ch"/>
         <br/><b>greenpea.ch</b>
       </a>
     </td>
     <td align="center">
       <a href="https://circuitsprestige.ca">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://circuitsprestige.ca" width="100%" alt="circuitsprestige.ca"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://circuitsprestige.ca" width="280" alt="circuitsprestige.ca"/>
         <br/><b>circuitsprestige.ca</b>
       </a>
     </td>
@@ -226,19 +226,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://otlsale.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://otlsale.com" width="100%" alt="otlsale.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://otlsale.com" width="280" alt="otlsale.com"/>
         <br/><b>otlsale.com</b>
       </a>
     </td>
     <td align="center">
       <a href="https://sydneyhuntingaccessories.com.au">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://sydneyhuntingaccessories.com.au" width="100%" alt="sydneyhuntingaccessories.com.au"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://sydneyhuntingaccessories.com.au" width="280" alt="sydneyhuntingaccessories.com.au"/>
         <br/><b>sydneyhuntingaccessories.com.au</b>
       </a>
     </td>
     <td align="center">
       <a href="https://tmb-me.com">
-        <img src="https://image.thum.io/get/width/400/crop/225/https://tmb-me.com" width="100%" alt="tmb-me.com"/>
+        <img src="https://image.thum.io/get/width/400/crop/225/https://tmb-me.com" width="280" alt="tmb-me.com"/>
         <br/><b>tmb-me.com</b>
       </a>
     </td>
