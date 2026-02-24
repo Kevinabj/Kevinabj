@@ -28,7 +28,6 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 - 🌐 6+ years of experience delivering **production websites and digital products**
 
 ---
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100">
 
 ## Tech Stack
 
