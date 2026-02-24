@@ -126,127 +126,139 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://droubi.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://droubi.com" width="380" alt="droubi.com"/>
-        <br/><b>droubi.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=droubi.com&sz=128" width="64" height="64" alt="droubi.com"/><br/>
+        <b>droubi.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Business-2D2D2D?style=flat-square&logoColor=white" alt="Business"/>
     </td>
     <td align="center">
       <a href="https://nabbouttrading.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://nabbouttrading.com" width="380" alt="nabbouttrading.com"/>
-        <br/><b>nabbouttrading.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=nabbouttrading.com&sz=128" width="64" height="64" alt="nabbouttrading.com"/><br/>
+        <b>nabbouttrading.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Trading-1A3A6E?style=flat-square&logoColor=white" alt="Trading"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://autohaus-group.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://autohaus-group.com" width="380" alt="autohaus-group.com"/>
-        <br/><b>autohaus-group.com</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lebanon-rental.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://lebanon-rental.com" width="380" alt="lebanon-rental.com"/>
-        <br/><b>lebanon-rental.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=autohaus-group.com&sz=128" width="64" height="64" alt="autohaus-group.com"/><br/>
+        <b>autohaus-group.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Automotive-8B0000?style=flat-square&logoColor=white" alt="Automotive"/>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://lebanon-rental.com">
+        <img src="https://www.google.com/s2/favicons?domain=lebanon-rental.com&sz=128" width="64" height="64" alt="lebanon-rental.com"/><br/>
+        <b>lebanon-rental.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Rental-2E5631?style=flat-square&logoColor=white" alt="Rental"/>
+    </td>
+    <td align="center">
       <a href="https://cyberc-tech.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://cyberc-tech.com" width="380" alt="cyberc-tech.com"/>
-        <br/><b>cyberc-tech.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=cyberc-tech.com&sz=128" width="64" height="64" alt="cyberc-tech.com"/><br/>
+        <b>cyberc-tech.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Technology-003366?style=flat-square&logoColor=white" alt="Technology"/>
     </td>
     <td align="center">
       <a href="https://atlashotelbasra.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://atlashotelbasra.com" width="380" alt="atlashotelbasra.com"/>
-        <br/><b>atlashotelbasra.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=atlashotelbasra.com&sz=128" width="64" height="64" alt="atlashotelbasra.com"/><br/>
+        <b>atlashotelbasra.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Hospitality-8B6914?style=flat-square&logoColor=white" alt="Hospitality"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://emaaraldelta.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://emaaraldelta.com" width="380" alt="emaaraldelta.com"/>
-        <br/><b>emaaraldelta.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=emaaraldelta.com&sz=128" width="64" height="64" alt="emaaraldelta.com"/><br/>
+        <b>emaaraldelta.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Real_Estate-1A5C1A?style=flat-square&logoColor=white" alt="Real Estate"/>
     </td>
     <td align="center">
       <a href="https://driveterra.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://driveterra.com" width="380" alt="driveterra.com"/>
-        <br/><b>driveterra.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=driveterra.com&sz=128" width="64" height="64" alt="driveterra.com"/><br/>
+        <b>driveterra.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Automotive-5C1A00?style=flat-square&logoColor=white" alt="Automotive"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://brightmindsagency.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://brightmindsagency.com" width="380" alt="brightmindsagency.com"/>
-        <br/><b>brightmindsagency.com</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://glodigitalagency.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://glodigitalagency.com" width="380" alt="glodigitalagency.com"/>
-        <br/><b>glodigitalagency.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=brightmindsagency.com&sz=128" width="64" height="64" alt="brightmindsagency.com"/><br/>
+        <b>brightmindsagency.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Digital_Agency-5C1A5E?style=flat-square&logoColor=white" alt="Digital Agency"/>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://glodigitalagency.com">
+        <img src="https://www.google.com/s2/favicons?domain=glodigitalagency.com&sz=128" width="64" height="64" alt="glodigitalagency.com"/><br/>
+        <b>glodigitalagency.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Digital_Agency-1A2D5C?style=flat-square&logoColor=white" alt="Digital Agency"/>
+    </td>
+    <td align="center">
       <a href="https://tools-solutions.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://tools-solutions.com" width="380" alt="tools-solutions.com"/>
-        <br/><b>tools-solutions.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=tools-solutions.com&sz=128" width="64" height="64" alt="tools-solutions.com"/><br/>
+        <b>tools-solutions.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/B2B_Solutions-1C3C5E?style=flat-square&logoColor=white" alt="B2B Solutions"/>
     </td>
     <td align="center">
       <a href="https://limousinequebec.ca">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://limousinequebec.ca" width="380" alt="limousinequebec.ca"/>
-        <br/><b>limousinequebec.ca</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=limousinequebec.ca&sz=128" width="64" height="64" alt="limousinequebec.ca"/><br/>
+        <b>limousinequebec.ca</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Luxury_Transport-1A1A1A?style=flat-square&logoColor=white" alt="Luxury Transport"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://ventflow.ch">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://ventflow.ch" width="380" alt="ventflow.ch"/>
-        <br/><b>ventflow.ch</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=ventflow.ch&sz=128" width="64" height="64" alt="ventflow.ch"/><br/>
+        <b>ventflow.ch</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Engineering-1C4E5E?style=flat-square&logoColor=white" alt="Engineering"/>
     </td>
     <td align="center">
       <a href="https://greenpea.ch">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://greenpea.ch" width="380" alt="greenpea.ch"/>
-        <br/><b>greenpea.ch</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=greenpea.ch&sz=128" width="64" height="64" alt="greenpea.ch"/><br/>
+        <b>greenpea.ch</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Sustainable-1A4A1A?style=flat-square&logoColor=white" alt="Sustainable"/>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://circuitsprestige.ca">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://circuitsprestige.ca" width="380" alt="circuitsprestige.ca"/>
-        <br/><b>circuitsprestige.ca</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://otlsale.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://otlsale.com" width="380" alt="otlsale.com"/>
-        <br/><b>otlsale.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=circuitsprestige.ca&sz=128" width="64" height="64" alt="circuitsprestige.ca"/><br/>
+        <b>circuitsprestige.ca</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Prestige_Auto-3A1A1A?style=flat-square&logoColor=white" alt="Prestige Auto"/>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <a href="https://otlsale.com">
+        <img src="https://www.google.com/s2/favicons?domain=otlsale.com&sz=128" width="64" height="64" alt="otlsale.com"/><br/>
+        <b>otlsale.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/E--Commerce-8B4500?style=flat-square&logoColor=white" alt="E-Commerce"/>
+    </td>
+    <td align="center">
       <a href="https://sydneyhuntingaccessories.com.au">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://sydneyhuntingaccessories.com.au" width="380" alt="sydneyhuntingaccessories.com.au"/>
-        <br/><b>sydneyhuntingaccessories.com.au</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=sydneyhuntingaccessories.com.au&sz=128" width="64" height="64" alt="sydneyhuntingaccessories.com.au"/><br/>
+        <b>sydneyhuntingaccessories.com.au</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Outdoor_&_Hunting-2A4A1A?style=flat-square&logoColor=white" alt="Outdoor & Hunting"/>
     </td>
     <td align="center">
       <a href="https://tmb-me.com">
-        <img src="https://image.thum.io/get/allowJPG/noanimate/width/800/crop/450/https://tmb-me.com" width="380" alt="tmb-me.com"/>
-        <br/><b>tmb-me.com</b>
-      </a>
+        <img src="https://www.google.com/s2/favicons?domain=tmb-me.com&sz=128" width="64" height="64" alt="tmb-me.com"/><br/>
+        <b>tmb-me.com</b>
+      </a><br/>
+      <img src="https://img.shields.io/badge/Business-2D2D2D?style=flat-square&logoColor=white" alt="Business"/>
     </td>
   </tr>
 </table>
