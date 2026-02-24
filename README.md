@@ -140,7 +140,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
     </td>
     <td align="center">
       <a href="https://autohaus-group.com">
-        <img src="https://icons.duckduckgo.com/ip3/autohaus-group.com.ico" width="64" height="64" alt="autohaus-group.com"/><br/>
+        <img src="https://ui-avatars.com/api/?name=Autohaus+Group&size=64&background=8B0000&color=fff&bold=true" width="64" height="64" alt="autohaus-group.com"/><br/>
         <b>autohaus-group.com</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Automotive-8B0000?style=flat-square&logoColor=white" alt="Automotive"/>
@@ -163,7 +163,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
     </td>
     <td align="center">
       <a href="https://atlashotelbasra.com">
-        <img src="https://icons.duckduckgo.com/ip3/atlashotelbasra.com.ico" width="64" height="64" alt="atlashotelbasra.com"/><br/>
+        <img src="https://ui-avatars.com/api/?name=Atlas+Hotel&size=64&background=8B6914&color=fff&bold=true" width="64" height="64" alt="atlashotelbasra.com"/><br/>
         <b>atlashotelbasra.com</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Hospitality-8B6914?style=flat-square&logoColor=white" alt="Hospitality"/>
