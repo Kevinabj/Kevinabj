@@ -18,6 +18,9 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 </p>
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B7285&height=2&section=footer" width="100%" />
+</p>
 
 ## About Me
 
