@@ -128,22 +128,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://droubi.com">
         <img src="https://www.google.com/s2/favicons?domain=droubi.com&sz=128" width="64" height="64" alt="droubi.com"/><br/>
         <b>droubi.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Business-2D2D2D?style=flat-square&logoColor=white" alt="Business"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://nabbouttrading.com">
         <img src="https://www.google.com/s2/favicons?domain=nabbouttrading.com&sz=128" width="64" height="64" alt="nabbouttrading.com"/><br/>
         <b>nabbouttrading.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Trading-1A3A6E?style=flat-square&logoColor=white" alt="Trading"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://autohaus-group.com">
         <img src="https://ui-avatars.com/api/?name=Autohaus+Group&size=64&background=8B0000&color=fff&bold=true" width="64" height="64" alt="autohaus-group.com"/><br/>
         <b>autohaus-group.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Automotive-8B0000?style=flat-square&logoColor=white" alt="Automotive"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -151,22 +148,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://lebanon-rental.com">
         <img src="https://www.google.com/s2/favicons?domain=lebanon-rental.com&sz=128" width="64" height="64" alt="lebanon-rental.com"/><br/>
         <b>lebanon-rental.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Rental-2E5631?style=flat-square&logoColor=white" alt="Rental"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://cyberc-tech.com">
         <img src="https://www.google.com/s2/favicons?domain=cyberc-tech.com&sz=128" width="64" height="64" alt="cyberc-tech.com"/><br/>
         <b>cyberc-tech.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Technology-003366?style=flat-square&logoColor=white" alt="Technology"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://atlashotelbasra.com">
         <img src="https://ui-avatars.com/api/?name=Atlas+Hotel&size=64&background=8B6914&color=fff&bold=true" width="64" height="64" alt="atlashotelbasra.com"/><br/>
         <b>atlashotelbasra.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Hospitality-8B6914?style=flat-square&logoColor=white" alt="Hospitality"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -174,22 +168,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://emaaraldelta.com">
         <img src="https://www.google.com/s2/favicons?domain=emaaraldelta.com&sz=128" width="64" height="64" alt="emaaraldelta.com"/><br/>
         <b>emaaraldelta.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Real_Estate-1A5C1A?style=flat-square&logoColor=white" alt="Real Estate"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://driveterra.com">
         <img src="https://www.google.com/s2/favicons?domain=driveterra.com&sz=128" width="64" height="64" alt="driveterra.com"/><br/>
         <b>driveterra.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Automotive-5C1A00?style=flat-square&logoColor=white" alt="Automotive"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://brightmindsagency.com">
         <img src="https://www.google.com/s2/favicons?domain=brightmindsagency.com&sz=128" width="64" height="64" alt="brightmindsagency.com"/><br/>
         <b>brightmindsagency.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Digital_Agency-5C1A5E?style=flat-square&logoColor=white" alt="Digital Agency"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -197,22 +188,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://glodigitalagency.com">
         <img src="https://www.google.com/s2/favicons?domain=glodigitalagency.com&sz=128" width="64" height="64" alt="glodigitalagency.com"/><br/>
         <b>glodigitalagency.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Digital_Agency-1A2D5C?style=flat-square&logoColor=white" alt="Digital Agency"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://tools-solutions.com">
         <img src="https://www.google.com/s2/favicons?domain=tools-solutions.com&sz=128" width="64" height="64" alt="tools-solutions.com"/><br/>
         <b>tools-solutions.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/B2B_Solutions-1C3C5E?style=flat-square&logoColor=white" alt="B2B Solutions"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://limousinequebec.ca">
         <img src="https://www.google.com/s2/favicons?domain=limousinequebec.ca&sz=128" width="64" height="64" alt="limousinequebec.ca"/><br/>
         <b>limousinequebec.ca</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Luxury_Transport-1A1A1A?style=flat-square&logoColor=white" alt="Luxury Transport"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -220,22 +208,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://ventflow.ch">
         <img src="https://icons.duckduckgo.com/ip3/ventflow.ch.ico" width="64" height="64" alt="ventflow.ch"/><br/>
         <b>ventflow.ch</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Engineering-1C4E5E?style=flat-square&logoColor=white" alt="Engineering"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://greenpea.ch">
         <img src="https://www.google.com/s2/favicons?domain=greenpea.ch&sz=128" width="64" height="64" alt="greenpea.ch"/><br/>
         <b>greenpea.ch</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Sustainable-1A4A1A?style=flat-square&logoColor=white" alt="Sustainable"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://circuitsprestige.ca">
         <img src="https://www.google.com/s2/favicons?domain=circuitsprestige.ca&sz=128" width="64" height="64" alt="circuitsprestige.ca"/><br/>
         <b>circuitsprestige.ca</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Prestige_Auto-3A1A1A?style=flat-square&logoColor=white" alt="Prestige Auto"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -243,22 +228,19 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
       <a href="https://otlsale.com">
         <img src="https://www.google.com/s2/favicons?domain=otlsale.com&sz=128" width="64" height="64" alt="otlsale.com"/><br/>
         <b>otlsale.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/E--Commerce-8B4500?style=flat-square&logoColor=white" alt="E-Commerce"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://sydneyhuntingaccessories.com.au">
         <img src="https://icons.duckduckgo.com/ip3/sydneyhuntingaccessories.com.au.ico" width="64" height="64" alt="sydneyhuntingaccessories.com.au"/><br/>
         <b>sydneyhuntingaccessories.com.au</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Outdoor_&_Hunting-2A4A1A?style=flat-square&logoColor=white" alt="Outdoor & Hunting"/>
+      </a>
     </td>
     <td align="center">
       <a href="https://tmb-me.com">
         <img src="https://www.google.com/s2/favicons?domain=tmb-me.com&sz=128" width="64" height="64" alt="tmb-me.com"/><br/>
         <b>tmb-me.com</b>
-      </a><br/>
-      <img src="https://img.shields.io/badge/Business-2D2D2D?style=flat-square&logoColor=white" alt="Business"/>
+      </a>
     </td>
   </tr>
 </table>
