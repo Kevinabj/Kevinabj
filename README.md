@@ -140,7 +140,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
     </td>
     <td align="center">
       <a href="https://autohaus-group.com">
-        <img src="https://www.google.com/s2/favicons?domain=autohaus-group.com&sz=128" width="64" height="64" alt="autohaus-group.com"/><br/>
+        <img src="https://icons.duckduckgo.com/ip3/autohaus-group.com.ico" width="64" height="64" alt="autohaus-group.com"/><br/>
         <b>autohaus-group.com</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Automotive-8B0000?style=flat-square&logoColor=white" alt="Automotive"/>
@@ -163,7 +163,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
     </td>
     <td align="center">
       <a href="https://atlashotelbasra.com">
-        <img src="https://www.google.com/s2/favicons?domain=atlashotelbasra.com&sz=128" width="64" height="64" alt="atlashotelbasra.com"/><br/>
+        <img src="https://icons.duckduckgo.com/ip3/atlashotelbasra.com.ico" width="64" height="64" alt="atlashotelbasra.com"/><br/>
         <b>atlashotelbasra.com</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Hospitality-8B6914?style=flat-square&logoColor=white" alt="Hospitality"/>
@@ -218,7 +218,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
   <tr>
     <td align="center">
       <a href="https://ventflow.ch">
-        <img src="https://www.google.com/s2/favicons?domain=ventflow.ch&sz=128" width="64" height="64" alt="ventflow.ch"/><br/>
+        <img src="https://icons.duckduckgo.com/ip3/ventflow.ch.ico" width="64" height="64" alt="ventflow.ch"/><br/>
         <b>ventflow.ch</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Engineering-1C4E5E?style=flat-square&logoColor=white" alt="Engineering"/>
@@ -248,7 +248,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
     </td>
     <td align="center">
       <a href="https://sydneyhuntingaccessories.com.au">
-        <img src="https://www.google.com/s2/favicons?domain=sydneyhuntingaccessories.com.au&sz=128" width="64" height="64" alt="sydneyhuntingaccessories.com.au"/><br/>
+        <img src="https://icons.duckduckgo.com/ip3/sydneyhuntingaccessories.com.au.ico" width="64" height="64" alt="sydneyhuntingaccessories.com.au"/><br/>
         <b>sydneyhuntingaccessories.com.au</b>
       </a><br/>
       <img src="https://img.shields.io/badge/Outdoor_&_Hunting-2A4A1A?style=flat-square&logoColor=white" alt="Outdoor & Hunting"/>
