@@ -69,11 +69,19 @@ Focused on **data analytics, applied ML, and software engineering**, with strong
 
 ---
 
-## Selected Projects
+## Featured Projects
 
-- **[Robot Simulation (C++)](https://github.com/Kevinabj/robot-simulation-cpp)** — Robotics simulation with motion and control logic  
-- **[Innovation Footprints in Tech Stock Markets](https://github.com/Kevinabj/Innovation-Footprints-in-Tech-Stock-Markets)** — Event-based financial market analysis using Python  
-- **[Basket Frenzy – Nintendo DS Game](https://github.com/Kevinabj/Basket-Frenzy---Nintendo-Game)** — Embedded game development in C for Nintendo DS
+🔹 **[The Lottery Ticket Hypothesis (Reproducibility Challenge)](https://github.com/Kevinabj/The-Lottery-Ticket-Hypothesis)**  
+Reproduced the ICLR 2019 paper using PyTorch, implementing iterative magnitude pruning with resetting and validating the existence of winning tickets on MNIST (LeNet-300-100).
+
+🔹 **[Robot Simulation (C++)](https://github.com/Kevinabj/robot-simulation-cpp)**  
+C++ robotics simulation focusing on motion, control logic, and system behavior in a simulated environment.
+
+🔹 **[Innovation Footprints in Tech Stock Markets](https://github.com/Kevinabj/Innovation-Footprints-in-Tech-Stock-Markets)**  
+Applied data analytics project analyzing the impact of technological innovation events on financial markets using Python and statistical methods.
+
+🔹 **[Basket Frenzy – Nintendo DS Game](https://github.com/Kevinabj/Basket-Frenzy---Nintendo-Game)**  
+Embedded game developed in C for Nintendo DS, including game logic, sprite handling, and performance-aware design.
 
 ---
 
