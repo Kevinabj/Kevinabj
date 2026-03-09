@@ -120,7 +120,7 @@ Embedded game developed in C for Nintendo DS, including game logic, sprite handl
 
 ## 🌐 Web Portfolio
 
-> **18 production websites** shipped across e-commerce, hospitality, real estate, automotive, and agency industries.
+> **Websites** shipped across e-commerce, hospitality, real estate, automotive, and agency industries.
 
 <table>
   <tr>
